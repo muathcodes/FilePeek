@@ -7,7 +7,7 @@
 [![Latest release](https://img.shields.io/github/v/release/muathcodes/FilePeek?label=version)](https://github.com/muathcodes/FilePeek/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white)
-![License pending](https://img.shields.io/badge/license-pending%20selection-lightgrey)
+[![PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue)](LICENSE)
 
 ## ⬇️ التحميل | Download
 
@@ -71,7 +71,9 @@
 
 ## الرخصة
 
-**قيد الاختيار.** ستُضاف شروط الاستخدام وملف LICENSE بعد اعتماد المطوّر للرخصة.
+[PolyForm Noncommercial 1.0.0](LICENSE)
+
+Copyright (c) 2026 Muath.
 
 ## المطوّر
 
