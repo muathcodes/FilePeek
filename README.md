@@ -1,6 +1,7 @@
 # FilePeek — كاشف الملفات
 
 يكشف FilePeek وش الماكل مساحة جهازك، ويتيح معاينة الملفات ومعرفة وش تقدر تحذفه بأمان.
+
 FilePeek shows what is using your disk space, previews files, and helps you safely clean up.
 
 ## التحميل
